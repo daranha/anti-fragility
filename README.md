@@ -15,4 +15,10 @@ with open('cr_dic_glob_caf.py', 'rb') as fp:
 
  # Create a DataFrame from the dictionary
 data = pd.DataFrame(dic).transpose()
+
+
+# the dictionaries for the data of stocks are at:
+~/antifragility/00afin/dic_glob_cafc1_2010.py
+...
+~/antifragility/00afin/dic_glob_cafc1_2017.py
 ```
