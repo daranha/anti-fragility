@@ -21,4 +21,6 @@ data = pd.DataFrame(dic).transpose()
 ~/antifragility/00afin/dic_glob_cafc1_2010.py
 ...
 ~/antifragility/00afin/dic_glob_cafc1_2017.py
+
+# each of them is 81 M, I cannot upload it to github. 
 ```
