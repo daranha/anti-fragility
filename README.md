@@ -1,5 +1,10 @@
 # anti-fragility
-Data for our anti-fragility research project 
+Data for our anti-fragility research project.
+
+### Data from the Stock Market: 
+Original source: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
+
+There are daily date from 7163 symbols from the US stock market. The first date on our processed data is 1990 and the last date is between September and November 2017. 
 
 
 ## For reading the data run the following commands 
