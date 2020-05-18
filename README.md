@@ -7,7 +7,7 @@ Original source: https://www.kaggle.com/borismarjanovic/price-volume-data-for-al
 There are daily data from 7163 symbols from the US stock market. The first date on our processed data is 1990 and the last date is between September and November 2017. There is a separate file for the data of each year, they are available here: 
 
 
-### Data from the Stock Market: 
+### Data from Cryptocurrencies: 
 The data consisted of daily historical data (open price, market capitalization and volume) of around 1800 agents, the eldest of them starting in 2013 and up to November 2018. The full data is included in the file ```'cr_dic_glob_caf.py'``` included in this repository.  
 
 ## For reading the data run the following commands 
